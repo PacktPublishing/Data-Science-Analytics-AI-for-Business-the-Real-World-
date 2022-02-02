@@ -1,0 +1,11 @@
+For those using Colab for the first time, follow the steps below to activate Colab in your Google account.
+
+Follow below steps;
+
+1. Open Google colab from https://colab.research.google.com/
+
+2. Create a new Notebook.
+
+3. In the "File" menu, click "Locate in Drive" option and navigate to your google drive folder, Done!
+
+4. Now you can find the option to right click a notebook and select Google Colab option.
